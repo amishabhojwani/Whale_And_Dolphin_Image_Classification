@@ -17,4 +17,4 @@ The final modelling uses an image data generator approach to modelling in order 
 #### Disclaimers
 - The data used is not available on this repository as it is from the [Happy Whale Dolphin and Whale Identification Kaggle Competition in 2022](https://www.kaggle.com/c/happy-whale-and-dolphin?msclkid=378742b3c18711ec84d2d084acce762e).
 - The directories correspond to those in a Kaggle working environment
-- Python dependencies are listed at the beginning of each notebook but can also be found in dependencies.txt. The version of Python used is: `Python 3.9.7`.
+- Python dependencies are listed at the beginning of each notebook but can also be found in dependencies.txt. The version of Python used is: ![Python](https://upload.wikimedia.org/wikipedia/commons/1/1b/Blue_Python_3.9_Shield_Badge.svg).
