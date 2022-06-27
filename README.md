@@ -1,8 +1,8 @@
-# Dolphin and Whale Families Image Classification
+# Introduction
 
 In this repository you will find Jupyter Notebooks with Python code to build a model that will succesfully identify 5 cetacean families (families of whales and dolphins) with 70% accuracy. You will also find a pdf of a Canva slideshow I used when presenting this project.
 
-# Code for Deep Learning Image Classification Models
+# Repository Structure
 
 The code (in the `Code` subdirectory) for this project can be split in two batches:
 
